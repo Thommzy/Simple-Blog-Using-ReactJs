@@ -3,7 +3,7 @@ import Title from './components/Title';
 import Date from './components/Date';
 import Comment from './components/Comment';
 import Images from './components/Images';
-
+import Summary from './components/Summary';
 import './App.css';
 
 class App extends Component {
@@ -14,6 +14,7 @@ class App extends Component {
           <Date />
           <Comment />
           <Images />
+          <Summary />
       </div>
 
 
