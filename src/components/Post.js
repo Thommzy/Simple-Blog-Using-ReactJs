@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import PostHeaderComponent from './postHeaderComponent'
 
 class Post extends Component {
+
     render() {
         return (
             <div>
